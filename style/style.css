@@ -1,0 +1,28 @@
+.container {
+	height: screen.height*60/100;
+  	width: screen.width*60/100;
+	position: absolute;
+    top:0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+
+    margin: auto;
+}
+
+.litera {
+	height: 30px;
+	width: 30px;
+	background-color: #999;
+	margin:5px;
+	display: inline-block;
+	font-weight: bold;
+}
+
+.placeholder {
+	height: 30px;
+	width: 30px;
+	background-color: #000;
+	margin:5px;
+	display: inline-block;
+}
